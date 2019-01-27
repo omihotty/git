@@ -1,3 +1,7 @@
 mera
+<<<<<<< HEAD
 ye omkara n kiya h:
 27 me
+=======
+ye singh n kiya h: 18 baze:
+>>>>>>> 2aa60d84e093a86edf5b9bcfe74be08553c96132
